@@ -1,0 +1,8 @@
+AssetsExternal/**
+Backup/**
+*.*.toe
+TDImportCache/**
+*.log
+Logs
+CMS
+Figma
