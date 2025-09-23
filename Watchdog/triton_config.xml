@@ -1,0 +1,15 @@
+<WatchdogConfig logfile="C:\CODE\TRITON\Watchdog\logs\tritons_watchdog.log" watchFrequency="10">
+    <Application binary="C:\Program Files\Derivative\TouchDesigner.2023.12120\bin\TouchDesigner.exe" directory="C:\Program Files\Derivative\TouchDesigner.2023.12120\bin">
+      <Arguments>
+        <Argument>"C:\CODE\TRITON\Run\triton.toe"</Argument>
+      </Arguments>
+      <Heartbeat>
+        <Heartbeat_File>C:/CODE/TRITON/Heartbeat/triton.xml</Heartbeat_File>
+        <Allow_Missing_Heartbeats>5</Allow_Missing_Heartbeats>
+        <Heartbeat_Frequency>10</Heartbeat_Frequency>
+        <FirstHeartBeatDelay>30</FirstHeartBeatDelay>
+      </Heartbeat>
+      <WaitDuringStartup>5</WaitDuringStartup>
+      <WaitDuringRestart>5</WaitDuringRestart>
+    </Application>
+</WatchdogConfig>

@@ -1,0 +1,27 @@
+{
+  "Show": {
+    "name": "Uttering",
+    "scheduled": false,
+    "root": "C:/CODE/uttering/"
+  },
+  "Logger": {
+    "level": "DEBUG",
+    "log_to_file": true,
+    "log_file_location": "../Logs"
+  },
+  "CompManager": {
+    "root": "/",
+    "folder": "../Modules",
+    "nested_folder": false,
+    "tag": "pi_suspect",
+    "auto_save": false
+  },
+  "Video": {
+    "file_path": "C:/Users/ddalf/Data/capricapri/Shu Lea Chang/MATERIAL/UTTERING.mp4",
+    "length": 65602,
+    "frame_rate": 30,
+    "width": 4096,
+    "height": 4096,
+    "screen_id": 1
+  }
+}
