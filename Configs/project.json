@@ -21,7 +21,11 @@
     "length": 65602,
     "frame_rate": 30,
     "width": 4096,
-    "height": 4096,
+    "height": 4096
+  },
+  "Projector": {
+    "width": 1920,
+    "height": 1200,
     "screen_id": 0
   },
   "DMX": {
