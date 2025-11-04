@@ -17,11 +17,15 @@
     "auto_save": false
   },
   "Video": {
-    "file_path": "C:/Users/ddalf/Data/capricapri/Shu Lea Chang/MATERIAL/UTTERING.mp4",
+    "file_path": "C:/CODE/uttering/ASSETS/UTTERING.mp4",
     "length": 65602,
     "frame_rate": 30,
     "width": 4096,
     "height": 4096,
-    "screen_id": 1
+    "screen_id": 0
+  },
+  "DMX": {
+    "local_address": "10.10.10.1",
+    "network_address": "10.201.6.100"
   }
 }
