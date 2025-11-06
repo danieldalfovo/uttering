@@ -29,7 +29,7 @@
     "screen_id": 0
   },
   "DMX": {
-    "local_address": "10.10.10.1",
+    "local_address": "10.201.6.10",
     "network_address": "10.201.6.100"
   }
 }
