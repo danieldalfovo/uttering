@@ -1,4 +1,4 @@
-<WatchdogConfig logfile="C:\CODE\uttering\Watchdog\logs\tritons_watchdog.log" watchFrequency="10">
+<WatchdogConfig logfile="C:\CODE\uttering\Watchdog\logs\uttering_watchdog.log" watchFrequency="10">
     <Application binary="C:\Program Files\Derivative\TouchDesigner\bin\TouchDesigner.exe" directory="C:\Program Files\Derivative\TouchDesigner\bin">
       <Arguments>
         <Argument>"C:\CODE\uttering\Release\uttering.toe"</Argument>
